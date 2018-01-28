@@ -24,24 +24,39 @@ Statistics and Machine Learning Toolbox
 
 ## Sample Data
 
-- Approximate total size of sample data set: 40 GB max (I am ocnsidering using only derivde data which would make it < 5 GB)
+- Approximate total size of sample data set: 330 MB 
 - Capturing conditions
    - organism: Human Bronchial Epithelial Cells
    - labeled protein: none
    - microscopy: Phase contrast
    - spatial resolution: 0.908 um / pixel
    - time resolution [dt]: 5 minutes per frame
-- Location: https://cloud.biohpc.swmed.edu/index.php/s/R8e7zes51ZMC00f
+- Location: 
+
+Coordination (150MB): https://cloud.biohpc.swmed.edu/index.php/s/Vmh55ha1VWZuvun
+
+Spatiotemporal representation of onset of collective cell migration (180MB): https://cloud.biohpc.swmed.edu/index.php/s/8cR8zgmXkYzn0y7
+
+Rhosin perturbation (4MB): https://cloud.biohpc.swmed.edu/index.php/s/3Rm18Xoq6PQ3YNy
+
 
 ## Resources
 
 Source code:
-https://github.com/assafzar/MonolayerKymographs (in progress)
+https://github.com/assafzar/MonolayerKymographs
+
+Main functions to execute:
+- mainCoordination
+- mainTimeLapse
+- mainRhosin
+
 
 ## References:
 
-Nock and Nielsen, Statistical Region Merging (2004)http://ieeexplore.ieee.org/abstract/document/1335450/
+Nock and Nielsen, Statistical Region Merging (2004)http://ieeexplore.ieee.org/abstract/document/1335450/ (region merging segmentation algorithm)
 
-Zaritsky et al. Seeds of locally aligned motion and stress coordinate a collective cell migration (2015) http://jcb.rupress.org/content/early/2017/05/15/jcb.201609095 
+Zaritsky et al. Propagating waves of directionality and coordination orchestrate collective cell migration (2014) http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003747 (adaptation of the region merging algorithm to explicitly identify clusters of coordinatde migrating cells from velocity fields)
 
-Zaritsky, Tseng et al. Diverse roles of guanine nucleotide exchange factors in regulating collective cell migration (2017) www.cell.com/biophysj/abstract/S0006-3495(15)01123-6
+Zaritsky et al. Seeds of locally aligned motion and stress coordinate a collective cell migration (2015) http://jcb.rupress.org/content/early/2017/05/15/jcb.201609095 (new biology from old data by identifying clsuters of coordinated velocity / stress)
+
+Zaritsky, Tseng et al. Diverse roles of guanine nucleotide exchange factors in regulating collective cell migration (2017) www.cell.com/biophysj/abstract/S0006-3495(15)01123-6 (screening spatio-temporal monolayer migration)

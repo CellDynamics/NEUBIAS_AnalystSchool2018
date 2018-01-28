@@ -1,3 +1,5 @@
+![NEUBIAS](http://eubias.org/NEUBIAS/wp-content/uploads/2016/12/NEUBIAS_COST_Logos.png)
+
 # NEUBIAS Bioimage Analyst School 2018
 
 Dates: Jan 27 - 30th, 2018
@@ -86,7 +88,10 @@ During registration, the applicant is asked to submit at least one bioimage anal
    *  Csaba is also a local organizer of the conference. 
 3. Vasja Urbancic
    * Filopodia quantification and statistical analysis (Filopodyan)
-     * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Vasja/NEUBIAS_Analysis_of_filopodia_dynamics.mdNEUBIAS_Analysis_of_filopodia_dynamics.md)
+     * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Vasja/NEUBIAS_Analysis_of_filopodia_dynamics.md)
+     * TroubleShooting cases and QAs
+         * [CellProfiler](TroubleShooting-QA.md#cellprofiler-220)
+         * [R](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/TroubleShooting-QA.md#r)
    * [The Paper](http://jcb.rupress.org/content/early/2017/07/28/jcb.201705113) 
 
 ## Workflows, Student Presentations
@@ -108,20 +113,25 @@ Selected workflows contributed by students
 
 "Components": One-hour talks introducing workflow components. Not only about algorithms, they are developing, but more with an overview.
 
-* Invited speakers. 
+* Invited speakers
   * Jean-Yves Tinevez ([Link](https://research.pasteur.fr/en/member/jean-yves-tinevez/))
-     * "A short dive into single-particle tracking core algorithms in BioImaging."
+     * A short dive into single-particle tracking core algorithms in BioImaging
+     * Abstract
   * Tobias Pietzsch ([Link](https://github.com/tpietzsch))
      * Big Data and 3D Visualization
          * Overview of visualization methods
-         * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#big-data-and-3d-visualization)
+     * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#big-data-and-3d-visualization)
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
      * Anna will also appear in the symposium and give a more general talk about iLastik
      * headless usage of iLastik
+     * Abstract
   * Vannary Meas-Yedid Hardy ([link](https://research.pasteur.fr/en/member/vannary-meas-yedid-hardy/))
-     * [potential talk] Natural History of Segmenting Biological Objects 
+     * [potential talk] Natural History of Segmenting Biological Objects
+     * Abstract 
   * Fabrice Cordelieres ([Link](https://www.researchgate.net/profile/Fabrice_Cordelieres))
-     * Colocalization from single molecules to cells 
+     * Deconstructing co-localisation workflows: from co-expression assessment to super-resolved co-distribution analysis
+     * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#deconstructing-co-localisation-workflows-from-co-expression-assessment-to-super-resolved-co-distribution-analysis)
+     * [slides PDF](https://github.com/fabricecordelieres/Training_material/blob/master/English/18-01-28%20NEUBIAS-Colocalisation/18-01-28%20NEUBIAS-Colocalisation.pdf)
 
 ## Forums
 
@@ -129,6 +139,7 @@ Forums are moderated in between sessions.
 
 - Discussion on working environments: how each is interacting with biologists, how they are teaching. Recommended teaching methods, failed teaching methods. 
 - "Bioimage analysis workflow of the year": share your opinion / comments on recent bioimage analysis workflows that impressed you. 
+- [slides](https://docs.google.com/presentation/d/15mVT4exg_pD5QyEOTbEB6a3a5Sf_4YZMiqT3o-pS0Pk/edit#slide=id.g329124a171_0_15)
 
 
 ## Implementations / Presentations

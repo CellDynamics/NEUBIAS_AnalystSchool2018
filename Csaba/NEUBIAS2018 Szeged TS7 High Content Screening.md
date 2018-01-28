@@ -43,11 +43,16 @@ Processing Toolbox, Statistics and Machine Learning Toolbox, and Bioinformatics 
    - microscopy: fluorescent, ImageXpress 5000A high-content imaging platform (Molecular Devices), ×20 PanFluor ELWD Ph1 DM objective, 16-bit camera binning resolution of 1
    - spatial resolution: .
    - time resolution [dt]: -.
-- Location: will be locally distributed in the school
+- Location: local storage
+    * Mount the drive available at address __\\\HVPC\TS__. Username: __INF\ts2018__, password: __Training__.
+    * The input data is in folder __TS7/Csaba/Data/WorkingData__.
+    * Backup data (in case of any errors) can be found in __TS7/Csaba/Data/BackupData__.
+    * All the Matlab scripts (including the source of ACC) __TS7/Csaba/CodeandSoftware__.
 
 ## Resources
 
 - Repository of TS7 on [GitHub](https://github.com/miura/NEUBIAS_AnalystSchool2018) (being prepared)
+- Also in Dropbox [workflow.zip](https://www.dropbox.com/s/p28g99qqatoaxd0/workflow.zip?dl=0)
 - Advanced Cell Classifier [http://www.cellclassifier.org/](http://www.cellclassifier.org/)
 - CellProfiler [http://cellprofiler.org/releases/](http://cellprofiler.org/releases/)
 - Image data were selected from the Broad Bioimage Benchmark Collection ([BBBC021](https://data.broadinstitute.org/bbbc/BBBC021/))
