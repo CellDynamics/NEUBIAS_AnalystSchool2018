@@ -78,7 +78,8 @@ During registration, the applicant is asked to submit at least one bioimage anal
 1. Assaf Zaritsky
    * Cell migration / membrane dynamics analysis / statistics workflows
      * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Assaf/NEUBIAS_SzegedSchool_AssafZar.md)
-     * [repo](https://github.com/assafzar/MonolayerKymographs) 	
+     * [repo](https://github.com/assafzar/MonolayerKymographs) 
+     * [slides PDF](Assaf/collectiveMigrationWorkflowDeconstruction.pdf)
    * Assaf will also give talks in the symposium. 
 
 2. Molnár Csaba
@@ -87,7 +88,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
      * [repo](https://github.com/csmolnar/NEUBIAS_2018_TS7_HCS) 
    *  Csaba is also a local organizer of the conference. 
 3. Vasja Urbancic
-   * Filopodia quantification and statistical analysis (Filopodyan)
+   * Filopodia Dynamics and Automated Image Analysis (Filopodyan)
      * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Vasja/NEUBIAS_Analysis_of_filopodia_dynamics.md)
      * TroubleShooting cases and QAs
          * [CellProfiler](TroubleShooting-QA.md#cellprofiler-220)
@@ -115,23 +116,30 @@ Selected workflows contributed by students
 
 * Invited speakers
   * Jean-Yves Tinevez ([Link](https://research.pasteur.fr/en/member/jean-yves-tinevez/))
-     * A short dive into single-particle tracking core algorithms in BioImaging
+     * Title: A short dive into single-particle tracking core algorithms in BioImaging
      * Abstract
-  * Tobias Pietzsch ([Link](https://github.com/tpietzsch))
-     * Big Data and 3D Visualization
-         * Overview of visualization methods
+  * Tobias Pietzsch ([Link](https://github.com/tpietzsch)) and Florian Jug ([Link](https://github.com/fjug))
+     * Title: Big Data and 3D Visualization
      * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#big-data-and-3d-visualization)
+     * [slides PDF](https://imagej.net/_images/9/9b/Jug_BigDataAnd3dViz.pdf)
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
-     * Anna will also appear in the symposium and give a more general talk about iLastik
-     * headless usage of iLastik
+     * Title: Pipelining with ilastik
+         * Introduction to Ilastik and the headless usage
      * Abstract
+     * Anna will also appear in the symposium and give a more general talk about iLastik 
   * Vannary Meas-Yedid Hardy ([link](https://research.pasteur.fr/en/member/vannary-meas-yedid-hardy/))
-     * [potential talk] Natural History of Segmenting Biological Objects
+     * Title: Image Segmentation
      * Abstract 
   * Fabrice Cordelieres ([Link](https://www.researchgate.net/profile/Fabrice_Cordelieres))
-     * Deconstructing co-localisation workflows: from co-expression assessment to super-resolved co-distribution analysis
+     * Title: Deconstructing co-localisation workflows: from co-expression assessment to super-resolved co-distribution analysis
      * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#deconstructing-co-localisation-workflows-from-co-expression-assessment-to-super-resolved-co-distribution-analysis)
      * [slides PDF](https://github.com/fabricecordelieres/Training_material/blob/master/English/18-01-28%20NEUBIAS-Colocalisation/18-01-28%20NEUBIAS-Colocalisation.pdf)
+
+## NEUBIAS lectures
+
+- Kota Miura
+   - Title: [Natural History of Fake Image Data](https://docs.google.com/presentation/d/1qEqPXI9QVwtAVFSVPamQ7EE1ZCSmhMq0XrlrwVnuS5A/edit?usp=sharing)
+
 
 ## Forums
 
@@ -144,7 +152,7 @@ Forums are moderated in between sessions.
 
 ## Implementations / Presentations
 
-School participants are asked to present their implementations (by group) on the last day of the school. 
+School participants are asked to present their implementations (by group) on the last day of the school. 7 groups, 15 minutes presentation + 5 minutes questions and answers. 
 
 
 
