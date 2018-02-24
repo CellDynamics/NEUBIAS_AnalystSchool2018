@@ -80,12 +80,17 @@ During registration, the applicant is asked to submit at least one bioimage anal
      * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Assaf/NEUBIAS_SzegedSchool_AssafZar.md)
      * [repo](https://github.com/assafzar/MonolayerKymographs) 
      * [slides PDF](Assaf/collectiveMigrationWorkflowDeconstruction.pdf)
+     * [sample data @ Zenodo](https://zenodo.org/record/1175191) 
+         * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1175191.svg)](https://doi.org/10.5281/zenodo.1175191)
+         * Sample data download links also appear in the "Instructions" document above, but please consider this becomes obsolete and use the Zenodo link, which was prepared after the  school. 
+
    * Assaf will also give talks in the symposium. 
 
 2. Molnár Csaba
    *  High Content Image Data Screening and Analysis
      * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Csaba/NEUBIAS2018%20Szeged%20TS7%20High%20Content%20Screening.md)
-     * [repo](https://github.com/csmolnar/NEUBIAS_2018_TS7_HCS) 
+     * [repo](https://github.com/csmolnar/NEUBIAS_2018_TS7_HCS)
+     * [slides @ Github](https://github.com/csmolnar/NEUBIAS_2018_TS7_HCS/blob/master/presentation/NEUBIAS_2018_TS7_HCS.pdf) 
    *  Csaba is also a local organizer of the conference. 
 3. Vasja Urbancic
    * Filopodia Dynamics and Automated Image Analysis (Filopodyan)
@@ -117,7 +122,7 @@ Selected workflows contributed by students
 * Invited speakers
   * Jean-Yves Tinevez ([Link](https://research.pasteur.fr/en/member/jean-yves-tinevez/))
      * Title: A short dive into single-particle tracking core algorithms in BioImaging
-     * Abstract
+     * The talk was done in a chalktalk style, and no record has been done. 
   * Tobias Pietzsch ([Link](https://github.com/tpietzsch)) and Florian Jug ([Link](https://github.com/fjug))
      * Title: Big Data and 3D Visualization
      * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#big-data-and-3d-visualization)
@@ -125,11 +130,11 @@ Selected workflows contributed by students
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
      * Title: Pipelining with ilastik
          * Introduction to Ilastik and the headless usage
-     * Abstract
+         * [slides PDF](slides/Anna_Pipelining_with_ilastik_2018.pdf)
      * Anna will also appear in the symposium and give a more general talk about iLastik 
   * Vannary Meas-Yedid Hardy ([link](https://research.pasteur.fr/en/member/vannary-meas-yedid-hardy/))
      * Title: Image Segmentation
-     * Abstract 
+     * [slides PDF](slides/Vannary_Neubias_ImageSegmentation_2018.pdf)
   * Fabrice Cordelieres ([Link](https://www.researchgate.net/profile/Fabrice_Cordelieres))
      * Title: Deconstructing co-localisation workflows: from co-expression assessment to super-resolved co-distribution analysis
      * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#deconstructing-co-localisation-workflows-from-co-expression-assessment-to-super-resolved-co-distribution-analysis)
